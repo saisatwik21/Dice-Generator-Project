@@ -1,7 +1,7 @@
 
 # Dice Generator Project - README
 
-(![dice](https://github.com/saisatwik21/Dice-Generator-Project/assets/97023666/63592b2d-d5e0-4af4-b991-dd632afd4753)
+![dice](https://github.com/saisatwik21/Dice-Generator-Project/assets/97023666/63592b2d-d5e0-4af4-b991-dd632afd4753)
 
 
 ## Table of Contents
