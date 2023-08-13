@@ -74,3 +74,4 @@ If you have any questions, suggestions, or feedback, you can reach us at:
 ---
 
 We hope you enjoy using the Dice Generator Project! Roll the dice and have fun! 🎲
+<hr>
